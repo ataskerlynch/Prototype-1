@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: ATL
   productName: Prototype 1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -729,7 +729,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -749,11 +755,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4fde4a23-1e92-401b-a8ed-027abb7cd2ff
+  cloudProjectId: 1eb8d75f-bd7a-4bff-8350-34514c71c2b4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Prototype 1
-  organizationId: maladjustedduck
+  organizationId: aarontaskerlynch
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
